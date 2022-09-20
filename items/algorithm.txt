@@ -1,0 +1,9 @@
+1... open gitbash
+2... change directory to desktop
+3... create folder items
+4...create file --- algorithm.txt review.sh x.pdf y.docx z.mp3
+5...write program in review.sh file by using for loop
+    a...filter .pdf .docx .mp3 files
+    b...create folder with file names 
+    c...copy all files and paste into that folders which are created with file names
+6...bash the program
